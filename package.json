@@ -1,0 +1,14 @@
+{
+	"name": "coding_test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "optionParser.js",
+	"scripts": {
+		"test": "node node_modules/jest/bin/jest.js --config config.json"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^25.1.0"
+	}
+}
