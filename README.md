@@ -6,7 +6,7 @@
 
 # Build
 
--git clone https://github.com/black10000/OptionParser.git
--cd OptionParser
--npm install
--npm test
+- git clone https://github.com/black10000/OptionParser.git
+- cd OptionParser
+- npm install
+- npm test
